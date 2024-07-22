@@ -2,3 +2,7 @@ twitter_data/
 .DS_Store
 .ipynb_checkpoints
 models/
+graphing/
+labelled_data/
+model_evaluation/Results/
+
